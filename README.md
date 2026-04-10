@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👨‍💻 About Me:<br><br>🔭 I’m currently working on building full-stack applications using the MERN stack and improving system design through real-world projects  <br><br>👯 I’m looking to collaborate on full-stack, backend, or AI/NLP-based projects  <br><br>🤝 I’m looking for help with improving backend architecture, scalability, and integrating advanced NLP features  <br><br>🌱 I’m currently learning Data Structures & Algorithms, backend optimization, and deeper NLP techniques  <br><br>💬 Ask me about MERN stack, REST APIs, authentication (JWT), and backend development  <br><br>⚡ Fun fact: I write under the name “Aalaapana” — blending logic with creativity through poetry and stories
 
 
