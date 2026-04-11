@@ -4,7 +4,7 @@
 🤝 Exploring backend scalability, architecture, and NLP integrations  
 🌱 Currently learning Data Structures & Algorithms and backend optimization  
 💬 Ask me about MERN stack, REST APIs, authentication (JWT), and backend systems  
-⚡ Fun fact: I write as “Aalaapana” — blending logic with creativity through poetry and stories  
+⚡ Fun fact: I write stories and poems as “Aalaapana” on instagram blending logic with creativity 
 
 ---
 
